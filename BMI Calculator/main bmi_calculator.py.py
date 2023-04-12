@@ -8,7 +8,7 @@ def calculate_bmi(weight, height):
 
 def main():
   st.title("BMI Calculator")
-  st.subheader("Enter your details below:")
+  st.subheader("Enter your details below: ")
 
   name = st.text_input("Name:")
   gender = st.radio("Gender:", ("Male", "Female", "Other"))
