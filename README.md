@@ -13,10 +13,10 @@ This project is a great example of how Python and Streamlit can be used to build
 
 ## Table of Contents
 
-* Installation
-* Contributing
-* [License](https://github.com/Yarlagadda-saimanoj/Python-BMI-App/edit/main/README.md#license)
-* Acknowledgements
+* [Installation](https://github.com/Yarlagadda-saimanoj/Python-BMI-App/blob/main/README.md#installation)
+* [Contributing](https://github.com/Yarlagadda-saimanoj/Python-BMI-App/blob/main/README.md#contributing)
+* [License](https://github.com/Yarlagadda-saimanoj/Python-BMI-App/blob/main/README.md#license)
+* [Acknowledgements](https://github.com/Yarlagadda-saimanoj/Python-BMI-App/blob/main/README.md#acknowledgements)
 ## Installation
 
 Before using this application, you must have Python 3 installed on your system. You can download and install Python 3 from the official website
