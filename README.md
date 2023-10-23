@@ -1,5 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yarlagadda-saimanoj/Python-BMI-App/blob/main/LICENSE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bmi-calculator-saimanoj-yarlagadda.streamlit.app/)
 # Python BMI Calculator Application
 
 The Python BMI Calculator is a simple command-line application that calculates Body Mass Index (BMI) based on user input of their height and weight in metric units. BMI is a measure of body fat based on height and weight, and it is commonly used to classify people into different weight categories. This project provides a useful tool to quickly and easily calculate a user's BMI based on their input data.
